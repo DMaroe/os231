@@ -6,7 +6,6 @@ permalink: LINKS/
 
 # LINKS<br>
 ## Week 01
-| Week 01 |
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
 1.| | |
