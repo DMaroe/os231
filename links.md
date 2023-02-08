@@ -8,9 +8,9 @@ permalink: LINKS/
 ## Week 01
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
-1.| | |
-2.| | |
-3.| | |
+1.| it guided me back the processes in the making of the weekly assignments | it's my old operating system repository | https://github.com/diablofied/os222
+2.| linking ssh to my terminal seemed more convenient | it's a guide to link debian to my ssh | https://osp4diss.vlsm.org/osp-002-ssh.html
+3.| it helped me get a better gsgs experience | it's chat GPT, an AI chat bot that answers all of your questions | www.chat.openai.com 
 
 
 
