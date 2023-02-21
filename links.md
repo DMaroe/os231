@@ -17,9 +17,9 @@ permalink: LINKS/
 ## Week 02
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
-1.| | |
-2.| | |
-3.| | |
+1.| It helped me through the encrypting process of my SHA256SUM file and my tar file to .asc | chat gpt is the leading AI chatbot tool that people use to help with their assignment or basically anything.  | https://chat.openai.com
+2.| Through scele, I can ask for help regarding my studies for Operating Systems.  | it's Fasilkom UI's e-learning activity website for Operating System Class for this semester. | https://scele.cs.ui.ac.id/course/view.php?id=3539
+3.| by looking through my classmates' repositories, it helped me through the process of doing the weekly assignments. | it's a website to see my classmates' logs, github account, tarball, etc. | https://os.vlsm.org/Log/
 
 ## Week 03
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
