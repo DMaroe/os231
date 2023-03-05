@@ -38,16 +38,16 @@ permalink: LINKS/
 ## Week 03
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
-1.| | |
-2.| | |
-3.| | |
-4.| | |
-5.| | |
-6.| | |
-7.| | |
-8.| | |
-9.| | |
-10.| | |
+1.| It helped me through understanding more about the VI text editor in linux | it's an 8 minute long video in YouTube about the basics of the VI editor | https://www.youtube.com/watch?v=-_DvfdgR-LA
+2.| even though the problem is not finished, the support page of utm helped me a bit about this week's problem | it's a support page for utm | https://mac.getutm.app/support/
+3.| it helped me understand more about file systems in a brief and animated way | it's a video that explains the basic of file systems made by crash course | https://www.youtube.com/watch?v=KN8YgJnShPM
+4.| since we'll be using 100% shell commands, this website helped me throughout understanding what does a command do and more | a website that shows what a command will do (shell) | https://explainshell.com
+5.| it helped me understand basic shell commands | it's a video that helped me learn about beginner level shell language | https://www.youtube.com/watch?v=v-F3YLd6oMw
+6.| helped me understand more about linux | a linux tutorial video | https://www.youtube.com/watch?v=HbgzrKJvDRw
+7.| since I've invested a good amount of time in linux, why not look a job for it | This video shows me interview questions on linux | https://www.youtube.com/watch?v=l0QGLMwR-lY
+8.| it gave me motivation to learn bash | it's a video about giving motivation for those that want to learn bash| https://www.youtube.com/watch?v=7qd5sqazD7k
+9.| it explained me about SHA256 checksums | it's an article about SHA256SUM and where it came from and more  | https://docs.precisely.com/docs/sftw/spectrum/ProductUpdateSummary/ProductUpdateSummary/source/about_sha256.html
+10.| it helped me learn a lot of things regarding this course | it's youtube, the world's number one platform for videos | www.youtube.com
 
 ## Week 04
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
