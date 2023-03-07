@@ -32,3 +32,9 @@ ZCZC W03 80 L64 Helped Friends
 ZCZC W03 3 L41 TXT/mylog.txt related
 ZCZC W03 10 L05 Quiz Related
 ZCZC W03 60 L05 Quiz 2 Related
+ZCZC W04 100 L02 Morning Class 6 Mar
+ZCZC W04 100 L02 Afternoon Class 7 Mar
+ZCZC W04 40 L06 Reading Assignment
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 3 L41 TXT/mylog.txt related
+ZCZC W04 10 L05 Quiz Related
