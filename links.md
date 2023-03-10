@@ -52,16 +52,16 @@ permalink: LINKS/
 ## Week 04
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
-1.| | |
-2.| | |
-3.| | |
-4.| | |
-5.| | |
-6.| | |
-7.| | |
-8.| | |
-9.| | |
-10.| | |
+1.| it showed me the guide for doing the tlpi| it's a readme file for tlpi-dist | https://github.com/bradfa/tlpi-dist/blob/master/README
+2.| fixed an error from my assignment | it's a build tutorial for building tlpi | https://github.com/bradfa/tlpi-dist/blob/master/BUILDING
+3.| it helped me find new inspirations to do the weekly assignments and help myrank.txt | it's the report page for os231 | https://os.vlsm.org/Log/
+4.| it helped me memorize my tar documentations | my notion page for tar guides | https://diabloo.notion.site/Exporting-file-to-tar-bz-4f17c9bb37264d76931c2a4d9e41d816
+5.| it showed me how interesting compilers are | a video about compiling, assembling, and linking | https://www.youtube.com/watch?v=N2y6csonII4
+6.| make files are one of the hardest things to understand in my journey of operating systems so far, but this website is absolute gold, it cuts through every pain. | a tutorial for make file | https://makefiletutorial.com/
+7.| it shows a brief and deep understanding about memory & storage | a video about memory & storage | https://www.youtube.com/watch?v=TQCr9RV7twk&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=20
+8.| it really inspired me to thoroughly learn about file systems | a video about files & file systems | https://www.youtube.com/watch?v=KN8YgJnShPM&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=21
+9.| since make files and compilers are all about compressing, this video intrigues me more about it.| a video about compression | https://www.youtube.com/watch?v=OtDxDvCpPL4&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=22
+10.| spotify helped me calm my mind and motivate me whilst doing the reading, weekly assignments, and quizzes| it's a music player software| https://www.spotify.com 
 
 ## Week 05
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
