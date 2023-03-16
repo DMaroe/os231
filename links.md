@@ -66,16 +66,9 @@ permalink: LINKS/
 ## Week 05
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
-1.| | |
-2.| | |
-3.| | |
-4.| | |
-5.| | |
-6.| | |
-7.| | |
-8.| | |
-9.| | |
-10.| | |
+1.| I was figuring out does the ++ operator work on C? then this article helped me with it | a ++ documentation on c Article | https://www.programiz.com/article/increment-decrement-operator-difference-prefix-postfix
+2.| I'm really confused about deleting the formats and wanting to enter a text after a certain pointer, and this video solved the problem. | a youtube video about the VI editor tutorial, again. | https://youtu.be/pU2k776i2Zw
+3.| It helped me learn more about pointers in C. | An article to learn about pointers in C | https://www.tutorialspoint.com/cprogramming/c_pointers.htm
 
 ## Week 06
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
