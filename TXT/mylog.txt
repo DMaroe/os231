@@ -46,3 +46,10 @@ ZCZC W05 60 L09 Weekly Assignments
 ZCZC W05 3 L41 TXT/mylog.txt related
 ZCZC W05 10 L05 Quiz 1 Related
 ZCZC W05 10 L05 Quiz 2 Related
+ZCZC W06 100 L02 Morning Class 20 Mar
+ZCZC W06 100 L02 Afternoon Class 21 Mar
+ZCZC W06 40 L06 Reading Assignment
+ZCZC W06 60 L09 Weekly Assignments
+ZCZC W06 10 L41 TXT/mylog.txt related
+ZCZC W06 10 L05 Quiz 1 Related
+ZCZC W06 10 L05 Quiz 2 Related
