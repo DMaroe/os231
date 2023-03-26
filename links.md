@@ -73,16 +73,7 @@ permalink: LINKS/
 ## Week 06
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
-1.| | |
-2.| | |
-3.| | |
-4.| | |
-5.| | |
-6.| | |
-7.| | |
-8.| | |
-9.| | |
-10.| | |
+1.| It helps me throughout formatting and designing .md pages | it's a cheatsheet for markdown (.md files) | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ## Week 07
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
