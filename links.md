@@ -78,16 +78,8 @@ permalink: LINKS/
 ## Week 07
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
-1.| | |
-2.| | |
-3.| | |
-4.| | |
-5.| | |
-6.| | |
-7.| | |
-8.| | |
-9.| | |
-10.| | |
+1.| during this weeks classes, we've learned a lot about threads from the demo files provided by our lecturer | it's a github repository for OS | https://github.com/os2xx/os
+2.| this week's assignment used an scp technique that is "quite" tricky, because to scp from a remote host to the localhost. | an scp guide from linuxize.com | https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/
 
 ## Week 08
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
