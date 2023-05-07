@@ -84,8 +84,8 @@ permalink: LINKS/
 ## Week 08
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
-1.| | |
-2.| | |
+1.| helped me throughout the LFS journey | it is the whole tutorial of LFS | https://www.linuxfromscratch.org/~xry111/lfs/view/arm64/chapter03/introduction.html
+2.| shows me the approximate time and process of doing the LFS | it's a speedrun video of linux from scratch in YouTube | https://www.youtube.com/watch?v=BaON_Hn_0_A
 3.| | |
 4.| | |
 5.| | |
