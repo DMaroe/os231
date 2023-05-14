@@ -90,16 +90,8 @@ permalink: LINKS/
 ## Week 09
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
 --- |--- | --- | ---
-1.| | |
-2.| | |
-3.| | |
-4.| | |
-5.| | |
-6.| | |
-7.| | |
-8.| | |
-9.| | |
-10.| | |
+1.| it made me doing my lfs assignment more fun | it's a funny video about linux from scratch | https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiX2vXYzvT-AhUf6jgGHf5ADiAQwqsBegQIDBAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DS7N9D4IqHA0&usg=AOvVaw3FPr9tpFTf6eyhKmtyuUBn
+2.| it encourages me to learn more about linux from scratch | its a youtube video debating whether linux from scratch is worth it or not | https://www.youtube.com/watch?v=1eOdaXS-wVE
 
 ## Week 10
 `No`| `Why is it interesting?`| `What is it about?` | `Link:`  
